@@ -78,6 +78,10 @@ a {
   line-height: 2;
 }
 
+.skills {
+  margin-top: 90px;
+}
+
 .computer-img {
   width: 25%;
   float: left;
@@ -92,13 +96,13 @@ a {
 
 .profile {
   width: 50%;
-  margin: auto;
+  margin: 0 auto 90px;
   line-height: 2;
 }
 
 .profile-img {
   width: 25%;
-  margin-top: 40px;
+  margin: 100px 0 50px;
 }
 
 
@@ -151,4 +155,8 @@ a {
 .copyright {
   color:  #EAF6F6;
   font-size: 0.8rem;
+}
+
+#hello-heding {
+  margin-bottom: 60px;
 }
